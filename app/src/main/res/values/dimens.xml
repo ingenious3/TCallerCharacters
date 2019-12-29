@@ -7,4 +7,6 @@
     <dimen name="tv_24sp">24sp</dimen>
     <dimen name="dim_16dp">16dp</dimen>
     <dimen name="dim_48dp">48dp</dimen>
+    <dimen name="dim_96dp">96dp</dimen>
+    <dimen name="dim_24dp">24dp</dimen>
 </resources>
