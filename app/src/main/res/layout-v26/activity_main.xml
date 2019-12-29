@@ -7,9 +7,8 @@
     android:background="@android:color/white"
     tools:context=".MainActivity">
 
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/start"
-        android:layout_width="wrap_content"
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="@dimen/dim_48dp"
         android:layout_height="@dimen/dim_48dp"
         app:fabCustomSize="@dimen/dim_48dp"
         android:layout_alignParentBottom="true"
@@ -17,13 +16,8 @@
         android:layout_alignParentEnd="true"
         android:layout_margin="@dimen/dim_16dp"
         android:src="@drawable/ic_refresh"
-        android:text="@string/click_on_button_to_start"
-        android:padding="@dimen/dim_16dp"
-        android:textAllCaps="false"
-        android:drawableLeft="@drawable/ic_refresh"
-        android:textColor="@android:color/white"
-        android:textStyle="bold"
-        android:backgroundTint="@android:color/holo_orange_dark"
+        android:tooltipText="Click on button to start"
+        android:backgroundTint="@android:color/holo_orange_light"
         />
 
     <TextView

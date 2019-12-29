@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_18sp">18sp</dimen>
+    <dimen name="dim_18dp">18dp</dimen>
+    <dimen name="tv_20sp">20sp</dimen>
+    <dimen name="dim_36dp">36dp</dimen>
+    <dimen name="tv_24sp">24sp</dimen>
+    <dimen name="dim_16dp">16dp</dimen>
+    <dimen name="dim_48dp">48dp</dimen>
+</resources>

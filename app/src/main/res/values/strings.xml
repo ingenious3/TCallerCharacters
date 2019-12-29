@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TCallerCharacters</string>
+    <string name="word_count_request">Word Count Request :</string>
+    <string name="every_10th_character_request">Every 10th Character Request :</string>
+    <string name="_10th_character_request">10th Character Request :</string>
+    <string name="click_on_button_to_start">Click on button to start</string>
 </resources>
